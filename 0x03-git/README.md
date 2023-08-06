@@ -1,2 +1,2 @@
 non empty file
-my up_to_date README
+up_to_date
